@@ -42,5 +42,4 @@ reservoir data, enabling data-driven decision making for oil extraction.
 
 ## 👤 Author
 **Tejaswini Paluru**  
-📧 your email  
-🔗 your LinkedIn URL
+  tejaswinipaluru@gmail.com
